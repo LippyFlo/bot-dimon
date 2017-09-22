@@ -1,0 +1,93 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C07839279426C57442718BE03657E71196B1D39F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "50371057723C0973C719F39F5C16B1B124E47FE9" : 9223372036854775807,
+    "921DEA5D01811AFCD7FCCE5CCDADF6A0EC4E9245" : 9223372036854775807,
+    "7C8CB4917A87F5E5383E6800524CC50437576509" : 9223372036854775807,
+    "DBEE070D688D85A65B831C30E1DCA68C69DE0D44" : 9223372036854775807,
+    "C86D95FCAEB1FEA0694B5D4AC7241D7E5F42F31D" : 9223372036854775807,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 9223372036854775807,
+    "75224C288D14A799245F99223249EF48FF5DC280" : 9223372036854775807,
+    "059D3DBD8E6D472364073CC069CEBFB635609AE5" : 9223372036854775807,
+    "C07839279426C57442718BE03657E71196B1D39F" : 9223372036854775807,
+    "EB2210CFD48672E403BED699D5D7F01B844069CF" : 9223372036854775807,
+    "95AA46D2618F98D2CD0A916E6FAE54E5EDA59BB4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5130182A-DB1C-454E-8DA5-B6E45AB4963D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "50371057723C0973C719F39F5C16B1B124E47FE9" : "bot-rocks\/.build\/checkouts\/SKRTMAPI--3675534972559415105\/",
+    "921DEA5D01811AFCD7FCCE5CCDADF6A0EC4E9245" : "bot-rocks\/.build\/checkouts\/SKServer--3675535218600224055\/",
+    "7C8CB4917A87F5E5383E6800524CC50437576509" : "bot-rocks\/.build\/checkouts\/SlackKit.git-5688595846546841342\/",
+    "DBEE070D688D85A65B831C30E1DCA68C69DE0D44" : "bot-rocks\/.build\/checkouts\/SKClient--3675504193236213391\/",
+    "C86D95FCAEB1FEA0694B5D4AC7241D7E5F42F31D" : "bot-rocks\/.build\/checkouts\/Starscream-6423249093605004847\/",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "bot-rocks\/.build\/checkouts\/Alamofire.git-6801331143877184500\/",
+    "75224C288D14A799245F99223249EF48FF5DC280" : "bot-rocks\/.build\/checkouts\/swifter.git--8814129713726061435\/",
+    "059D3DBD8E6D472364073CC069CEBFB635609AE5" : "bot-rocks\/.build\/checkouts\/SKWebAPI--3675534262364500136\/",
+    "C07839279426C57442718BE03657E71196B1D39F" : "bot-rocks\/",
+    "EB2210CFD48672E403BED699D5D7F01B844069CF" : "bot-rocks\/.build\/checkouts\/SWXMLHash.git-5776748636326364470\/",
+    "95AA46D2618F98D2CD0A916E6FAE54E5EDA59BB4" : "bot-rocks\/.build\/checkouts\/SKCore-6808240924544108153\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "bot-rocks",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "bot-rocks.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/viktor\/bot-rocks\/.build\/repositories\/SKWebAPI--3675534262364500136",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "059D3DBD8E6D472364073CC069CEBFB635609AE5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/viktor\/bot-rocks\/.build\/repositories\/SKRTMAPI--3675534972559415105",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "50371057723C0973C719F39F5C16B1B124E47FE9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/viktor\/bot-rocks\/.build\/repositories\/Alamofire.git-6801331143877184500",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/viktor\/bot-rocks\/.build\/repositories\/swifter.git--8814129713726061435",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "75224C288D14A799245F99223249EF48FF5DC280"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/viktor\/bot-rocks\/.build\/repositories\/SlackKit.git-5688595846546841342",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7C8CB4917A87F5E5383E6800524CC50437576509"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/viktor\/bot-rocks\/.build\/repositories\/SKServer--3675535218600224055",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "921DEA5D01811AFCD7FCCE5CCDADF6A0EC4E9245"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/viktor\/bot-rocks\/.build\/repositories\/SKCore-6808240924544108153",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95AA46D2618F98D2CD0A916E6FAE54E5EDA59BB4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.heroku.com\/bot-rocks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C07839279426C57442718BE03657E71196B1D39F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/viktor\/bot-rocks\/.build\/repositories\/Starscream-6423249093605004847",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C86D95FCAEB1FEA0694B5D4AC7241D7E5F42F31D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/viktor\/bot-rocks\/.build\/repositories\/SKClient--3675504193236213391",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DBEE070D688D85A65B831C30E1DCA68C69DE0D44"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/viktor\/bot-rocks\/.build\/repositories\/SWXMLHash.git-5776748636326364470",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB2210CFD48672E403BED699D5D7F01B844069CF"
+    }
+  ]
+}
